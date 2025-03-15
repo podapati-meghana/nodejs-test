@@ -65,4 +65,5 @@ jobs:
           app-name: 'node-test-deployment'
           slot-name: 'Production'
           package: .
+          isAsync: true
           
